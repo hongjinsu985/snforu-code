@@ -1,0 +1,314 @@
+# snforu-code
+snforu.com code
+
+<!DOCTYPE html> 
+<html class="no-js" lang="zh-CN">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		
+	<title>snforu</title>
+<meta name='robots' content='max-image-preview:large' />
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="snforu &raquo; Feed" href="https://snforu.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="snforu &raquo; 评论Feed" href="https://snforu.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/snforu.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://snforu.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://snforu.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashscroll-style-css'  href='https://snforu.com/wp-content/themes/dashscroll/style.css?ver=5.8.2' type='text/css' media='all' />
+<style id='dashscroll-style-inline-css' type='text/css'>
+body { font-family: Georgia, serif; }
+
+</style>
+<link rel='stylesheet' id='dashscroll-responsive-css'  href='https://snforu.com/wp-content/themes/dashscroll/responsive.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashscroll-font-awesome-css'  href='https://snforu.com/wp-content/themes/dashscroll/fonts/all.min.css?ver=5.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://snforu.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-content/themes/dashscroll/js/slick.min.js?ver=5.8.2' id='dashscroll-slick-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-185765447-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["snforu.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-185765447-1", {"anonymize_ip":true,"optimize_id":"OPT-5XMF494"});
+gtag("config", "G-GLLV50BTFW");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://snforu.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://snforu.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://snforu.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<meta name="generator" content="Site Kit by Google 1.47.0" />		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "9askr65kur");
+		</script>
+		
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8493767086985513" crossorigin="anonymous" type="text/javascript"></script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script type="text/javascript">
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-P4DMMS6' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+<link rel="icon" href="https://snforu.com/wp-content/uploads/2021/11/1636635544-4d9a83184f505a7-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://snforu.com/wp-content/uploads/2021/11/1636635544-4d9a83184f505a7-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://snforu.com/wp-content/uploads/2021/11/1636635544-4d9a83184f505a7-180x180.png" />
+<meta name="msapplication-TileImage" content="https://snforu.com/wp-content/uploads/2021/11/1636635544-4d9a83184f505a7-270x270.png" />
+<style id="kirki-inline-styles"></style></head>
+
+<body class="blog col-2cl full-width mobile-menu logged-out">
+
+		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4DMMS6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+		
+<a class="skip-link screen-reader-text" href="#page">跳至内容</a>
+
+<div id="wrapper">
+	
+		
+	<div id="wrapper-inner">
+	
+		<header id="header">
+			
+			<h1 class="site-title"><a href="https://snforu.com/" rel="home">snforu</a></h1>
+							<p class="site-description">与snforu一起连接世界。</p>
+			
+			<div id="move-sidebar-header"></div>
+			
+	<div class="sidebar s1">
+		
+		<div class="sidebar-content">
+
+						
+			
+			<div id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://snforu.com/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">搜索</label><div class="wp-block-search__inside-wrapper"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder=""  required /><button type="submit" class="wp-block-search__button ">搜索</button></div></form></div><div id="block-8" class="widget widget_block"><div role="form" class="wpcf7" id="wpcf7-f177-o1" lang="zh-CN" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/?i=1#wpcf7-f177-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="177" />
+<input type="hidden" name="_wpcf7_version" value="5.5.3" />
+<input type="hidden" name="_wpcf7_locale" value="zh_CN" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f177-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label> 您的名字<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> 您的电邮<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> 主题<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> 您的消息 (可选)<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="提交" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div>
+		</div><!--/.sidebar-content-->
+		
+	</div><!--/.sidebar-->
+	
+			
+		</header><!--/#header-->
+		
+		<div class="sidebar s2">
+							<div class="search-trap-focus">
+					<button class="toggle-search" data-target=".search-trap-focus">
+						<svg class="svg-icon" id="svg-search" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)"></path></svg>
+						<svg class="svg-icon" id="svg-close" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102"></polygon></svg>
+					</button>
+					<div class="search-expand">
+						<div class="search-expand-inner">
+							<form method="get" class="searchform themeform" action="https://snforu.com/">
+	<div>
+		<input type="text" class="search" name="s" onblur="if(this.value=='')this.value='在此输入并搜索';" onfocus="if(this.value=='在此输入并搜索')this.value='';" value="在此输入并搜索" />
+	</div>
+</form>						</div>
+					</div>
+				</div>
+								</div>
+
+		<div class="main" id="page">
+		
+							<div id="wrap-nav-header" class="wrap-nav">
+							<nav id="nav-header-nav" class="main-navigation nav-menu">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+				<span class="screen-reader-text">展开菜单</span><div class="menu-toggle-icon"><span></span><span></span><span></span></div>			</button>
+			<div class="menu-menu-container"><ul id="nav-header" class="menu"><li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-35"><span class="menu-item-wrapper"><a href="https://snforu.com/">首页</a></span></li>
+<li id="menu-item-127-zh-cn" class="lang-item lang-item-11 lang-item-zh-cn current-lang no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-127-zh-cn"><span class="menu-item-wrapper"><a href="https://snforu.com/" hreflang="zh-CN" lang="zh-CN">中文 (中国)</a></span></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><span class="menu-item-wrapper"><a href="https://snforu.com/privacy-policy/">隐私政策</a></span></li>
+</ul></div>		</nav>
+						</div>
+						
+							<div id="wrap-nav-mobile" class="wrap-nav">
+							<nav id="nav-mobile-nav" class="main-navigation nav-menu">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+				<span class="screen-reader-text">展开菜单</span><div class="menu-toggle-icon"><span></span><span></span><span></span></div>			</button>
+			<div class="menu-menu-container"><ul id="nav-mobile" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-35"><span class="menu-item-wrapper"><a href="https://snforu.com/">首页</a></span></li>
+<li class="lang-item lang-item-11 lang-item-zh-cn current-lang no-translation lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-127-zh-cn"><span class="menu-item-wrapper"><a href="https://snforu.com/" hreflang="zh-CN" lang="zh-CN">中文 (中国)</a></span></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><span class="menu-item-wrapper"><a href="https://snforu.com/privacy-policy/">隐私政策</a></span></li>
+</ul></div>		</nav>
+						</div>
+						
+			<div class="main-inner group">
+<div class="content">
+	
+			<div class="page-title group">
+	<div class="page-title-inner group">
+	
+					<h2>snforu</h2>
+		
+								
+	</div><!--/.page-title-inner-->
+</div><!--/.page-title-->	
+	<div class="content-inner group">
+				
+		
+							
+<article id="post-94" class="article-type-list post-94 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-8 category-7 tag-9 tag-10">	
+
+	<div class="type-list-left">
+		<div class="type-list-avatar">
+			<a href="https://snforu.com/作者/hongjinsu/">
+				<img alt='' src='https://secure.gravatar.com/avatar/b08b2376e07f22ac225a51ad6b510b61?s=48&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b08b2376e07f22ac225a51ad6b510b61?s=96&#038;d=mm&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>			</a>
+		</div>
+	</div>
+	<div class="type-list-right">
+		<div class="type-list-date">11月 14, 2021</div>
+		<div class="type-list-right-inner has-thumbnail">
+			
+							<div class="type-list-thumbnail">
+					<a href="https://snforu.com/zhongguozhanzen/">
+						<img width="200" height="200" src="https://snforu.com/wp-content/uploads/2021/11/1636886980-195593d70efd551.jpg" class="attachment-dashscroll-small size-dashscroll-small wp-post-image" alt="" loading="lazy" srcset="https://snforu.com/wp-content/uploads/2021/11/1636886980-195593d70efd551.jpg 512w, https://snforu.com/wp-content/uploads/2021/11/1636886980-195593d70efd551-300x300.jpg 300w, https://snforu.com/wp-content/uploads/2021/11/1636886980-195593d70efd551-150x150.jpg 150w" sizes="(max-width: 200px) 100vw, 200px" />																		<span class="thumb-icon small"><i class="fas fa-star"></i></span>					</a>
+				</div>
+						
+			<h2 class="type-list-title">
+				<a href="https://snforu.com/zhongguozhanzen/" rel="bookmark">中国抗日战争</a>
+			</h2>
+			
+							<div class="type-list-excerpt">
+					<p>中国抗日战争，或称日本侵华战争；国际称第二次中日战争；史称八年抗战，中华人民共和国在2017年改称十四年抗战。指20世纪30年代至40年代中国与日本之间发生的战争，也为第二次世界大战东亚战事的主要部分&#46;&#46;&#46;</p>
+				</div>
+				<a class="type-list-more" href="https://snforu.com/zhongguozhanzen/">进一步了解</a>
+						
+		</div>
+		<ul class="type-list-meta">
+			<li><i class="far fa-folder"></i> <a href="https://snforu.com/%E5%88%86%E7%B1%BB/%e8%89%ba%e6%9c%af%e4%b8%8e%e6%96%87%e5%8c%96/%e4%b8%ad%e5%9b%bd%e6%8a%97%e6%97%a5%e6%88%98%e4%ba%89/" rel="category tag">中国抗日战争</a> / <a href="https://snforu.com/%E5%88%86%E7%B1%BB/%e8%89%ba%e6%9c%af%e4%b8%8e%e6%96%87%e5%8c%96/" rel="category tag">艺术与文化</a></li>
+							<li>
+					<i class="far fa-comments"></i> <a class="post-comments" href="https://snforu.com/zhongguozhanzen/#respond"><span>0</span></a>
+				</li>
+					</ul>
+	</div>
+
+</article><!--/.post-->							
+						<nav class="pagination group">
+			<ul class="group">
+			<li class="prev left"></li>
+			<li class="next right"></li>
+		</ul>
+	</nav><!--/.pagination-->
+			
+			</div>
+</div><!--/.content-->
+
+<div id="move-sidebar-content"></div>
+
+			</div><!--/.main-inner-->
+				
+			<footer id="footer">
+			
+									
+								
+				<div id="footer-bottom">
+					
+					<a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a>
+						
+					<div class="pad group">
+						
+						<div class="grid one-full">
+							
+														
+							<div id="copyright">
+																	<p>snforu &copy; 2021. 版权所有。</p>
+															</div><!--/#copyright-->
+							
+														
+						</div>
+						
+						<div class="grid one-full">	
+													</div>
+						
+					</div><!--/.pad-->
+
+				</div><!--/#footer-bottom-->
+
+			</footer><!--/#footer-->
+		
+		</div><!--/.main-->	
+	
+	</div><!--/#wrapper-inner-->
+</div><!--/#wrapper-->
+
+<script type='text/javascript' src='https://snforu.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/snforu.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://snforu.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-content/themes/dashscroll/js/jquery.fitvids.js?ver=5.8.2' id='dashscroll-fitvids-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-content/themes/dashscroll/js/scripts.js?ver=5.8.2' id='dashscroll-scripts-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-content/themes/dashscroll/js/nav.js?ver=1637902867' id='dashscroll-nav-script-js'></script>
+<script type='text/javascript' src='https://snforu.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	</body>
+</html>
